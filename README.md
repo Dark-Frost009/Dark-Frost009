@@ -13,7 +13,7 @@ Data Science & AI practitioner transitioning from a Biosciences background — I
 
 **Pinned projects below** cover EDA, predictive modeling, recommender systems, and a Retrieval-Augmented Generation (RAG) application.
 
-📫 Connect with me on [LinkedIn](www.linkedin.com/in/sayantan-chaklader-06933127a)
+📫 Connect with me on [LinkedIn] - (www.linkedin.com/in/sayantan-chaklader-06933127a)
 <!--
 **Dark-Frost009/Dark-Frost009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
